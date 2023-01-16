@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  
+  "tom_gok": {
+    {"id": 1, "value": 30},
+    {"id": 1, "value": 45},
+    {"id": 1, "value": 60}
   }
+  
 }
